@@ -36,7 +36,7 @@ WebSafe is a privacy‑focused browser extension that analyzes URLs and page con
 ## 📂 Project Structure
 
 This repo (`WebSafe-Publicsite`) is the **public website** for the WebSafe project. It contains:
-
+<pre><code>
 WebSafe-Publicsite/
 ├── index.html # Main landing page
 ├── css/ # Styles (Tailwind/Bootstrap or custom CSS)
@@ -44,7 +44,7 @@ WebSafe-Publicsite/
 ├── assets/ # Images, icons, logos
 ├── docs/ # Documentation, user guides, FAQs
 └── README.md # This file
-
+</code></pre>
 The actual browser extension code lives in the main repo:
 
 🔗 [Sourish-Chakraborty04/WebSafe](https://github.com/Sourish-Chakraborty04/WebSafe)
